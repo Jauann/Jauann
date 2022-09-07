@@ -16,8 +16,6 @@
   <img align="center" alt="Jauann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jauann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jauann-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Jauann-pic" height="150" style="border-radius:50px;" src="https://www.eltiempo.com/files/image_640_428/uploads/2017/10/03/59d322ad01c2c.jpeg">
-</div>
   
   ##
   
