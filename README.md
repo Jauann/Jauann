@@ -3,8 +3,7 @@
 - 🔭 Interesses: Astronomia, Física Teórica, Programação - Full Stack
 - 🌱 Estudando na Universidade Federal Rural de Pernambuco/UFRPE-Sistemas de Informação
 - 📫 Contate-me no email: jauannsouza@gmail.com
-- ⚡ Fato Engraçado: Meu pai tinha uma Alan House, e foi lá onde tudo começou...
-
+- 🔱 Foco no progresso
 <div align="center">
   <a href="https://github.com/jauann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jauann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
