@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jauann
 
-- 🔭 Interesses: Astronomia, Física Teórica, Programação - Full Stack
+- 🔭 Interesses: Programação - Full Stack
 - 🌱 Estudando na Universidade Federal Rural de Pernambuco/UFRPE-Sistemas de Informação
 - 📫 Contate-me no email: jauannsouza@gmail.com
 - 🔱 Foco no progresso
